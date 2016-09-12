@@ -22,7 +22,6 @@ Solve 解決する
 ・インストールしてあるのに・・・という人はJAVA_HOME/binをPATHに追加
 ・PATHって何だという人はeclipseにソースを貼り付けるなど工夫する
 
-
 javac RubiksCube.java ;
 appletviewer index.html ;
 exit ;
